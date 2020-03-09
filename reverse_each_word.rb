@@ -1,6 +1,6 @@
-original_array = string.split(" ")
+new_array = string.split(" ")
   return_array = []
-  original_array.each do|string|
+  new_array.each do|string|
     return_array << string.reverse
   end
   return_array.join(" ")
