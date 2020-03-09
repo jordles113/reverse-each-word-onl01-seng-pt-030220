@@ -4,4 +4,3 @@ original_array = string.split(" ")
     return_array << string.reverse
   end
   return_array.join(" ")
-end
